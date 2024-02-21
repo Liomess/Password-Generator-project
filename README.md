@@ -14,3 +14,7 @@ ___
 This project is open to contributions from the public. 
 Basically, if you're a beginner, think of it as your introduction to open source. 
 And if you've been open sourcing for a while, here's another contribution to add to your belt.
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
